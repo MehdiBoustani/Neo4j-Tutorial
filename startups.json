@@ -1,0 +1,80 @@
+{
+  "technologies": {
+    "AI": {
+      "name": "Artificial Intelligence",
+      "startups": [
+        {"name": "OpenAI", "country": "USA"},
+        {"name": "DeepMind", "country": "UK"},
+        {"name": "Anthropic", "country": "USA"},
+        {"name": "Cohere", "country": "Canada"},
+        {"name": "Adept AI", "country": "USA"},
+        {"name": "Stability AI", "country": "UK"}
+      ]
+    },
+    "Aerospace": {
+      "name": "Space and Aerospace",
+      "startups": [
+        {"name": "SpaceX", "country": "USA"},
+        {"name": "Blue Origin", "country": "USA"},
+        {"name": "Rocket Lab", "country": "New Zealand"},
+        {"name": "Relativity Space", "country": "USA"},
+        {"name": "Virgin Galactic", "country": "USA"},
+        {"name": "Firefly Aerospace", "country": "USA"}
+      ]
+    },
+    "FinTech": {
+      "name": "Financial Technology",
+      "startups": [
+        {"name": "Stripe", "country": "USA"},
+        {"name": "Revolut", "country": "UK"},
+        {"name": "Klarna", "country": "Sweden"},
+        {"name": "Brex", "country": "USA"},
+        {"name": "Chime", "country": "USA"},
+        {"name": "Plaid", "country": "USA"}
+      ]
+    },
+    "EV": {
+      "name": "Electric Vehicles",
+      "startups": [
+        {"name": "Tesla", "country": "USA"},
+        {"name": "Rivian", "country": "USA"},
+        {"name": "Lucid Motors", "country": "USA"},
+        {"name": "Nio", "country": "China"},
+        {"name": "Xpeng", "country": "China"},
+        {"name": "Fisker", "country": "USA"}
+      ]
+    },
+    "Blockchain": {
+      "name": "Blockchain and Crypto",
+      "startups": [
+        {"name": "Binance", "country": "Malta"},
+        {"name": "Coinbase", "country": "USA"},
+        {"name": "Chainalysis", "country": "USA"},
+        {"name": "Ledger", "country": "France"},
+        {"name": "Kraken", "country": "USA"},
+        {"name": "Uniswap", "country": "Global"}
+      ]
+    }
+  },
+  "investors": [
+    {"name": "Elon Musk", "sectors": ["AI", "Aerospace", "EV"]},
+    {"name": "Peter Thiel", "sectors": ["Aerospace", "AI"]},
+    {"name": "SoftBank", "sectors": ["AI", "EV", "Aerospace"]},
+    {"name": "Khosla Ventures", "sectors": ["AI", "Aerospace"]},
+    {"name": "Google Ventures", "sectors": ["AI", "FinTech"]},
+    {"name": "Lightspeed Ventures", "sectors": ["AI", "FinTech"]},
+    {"name": "Andreessen Horowitz", "sectors": ["FinTech", "Blockchain"]},
+    {"name": "Sequoia Capital", "sectors": ["FinTech"]},
+    {"name": "Tiger Global", "sectors": ["FinTech"]},
+    {"name": "General Catalyst", "sectors": ["FinTech"]},
+    {"name": "Accel Partners", "sectors": ["FinTech"]},
+    {"name": "Bessemer Venture Partners", "sectors": ["FinTech"]},
+    {"name": "Benchmark", "sectors": ["EV", "FinTech"]},
+    {"name": "Binance Labs", "sectors": ["Blockchain"]},
+    {"name": "Tim Draper", "sectors": ["EV", "Blockchain"]},
+    {"name": "Cathie Wood", "sectors": ["EV", "Blockchain"]},
+    {"name": "Founders Fund", "sectors": ["Aerospace", "Blockchain"]},
+    {"name": "Coinbase Ventures", "sectors": ["Blockchain"]},
+    {"name": "Union Square Ventures", "sectors": ["Blockchain"]}
+  ]
+} 
